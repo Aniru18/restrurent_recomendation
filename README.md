@@ -78,6 +78,6 @@ The system recommends the **Top 5 restaurants** with the following details:
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/Aniru18/restaurant_recomendation.git
-   cd restaurant_recomendation
-# restrurent_recomendation
+   git clone https://github.com/Aniru18/restaurant_recommendation.git
+   cd restaurant_recommendation
+# restrurent_recommendation
